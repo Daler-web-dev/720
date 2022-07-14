@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:'Montserrat', sans-serif;
+}
+.box{
+    margin: 100px auto;
+    background-color: rgb(36, 145, 160);
+    width: 1920px;
+    height: 2051px;
+}
+.box2{
+    background-color:#00093C;
+    width: 1920px;
+    height: 110px;
+}
+
+
